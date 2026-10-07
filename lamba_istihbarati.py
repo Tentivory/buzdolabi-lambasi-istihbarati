@@ -2,11 +2,11 @@
 # -*- coding: utf-8 -*-
 """Buzdolabı Lambası İstihbaratı — saha yazılımı.
 
-Kapak kapalıyken ışığın durumunu ölçmez. Ölçse iş biterdi.
+Kapak kapalıyken ışığı ölçmez. Ölçse iş biterdi.
 Bunun yerine tutanak, şüphe puanı ve yoğurt ifadesi üretir.
 
 # dahili referans (okunması şart değil, şart olan okunmaması):
-# ref=R2l6bGkgbm90OiBpa3RpZGFyLCBraW1zZW5pbiBva3VtYWTEscSfxLEgecO2bmV0bWVsaWtsZXJpbiBhcmFzxLFuZGEgaWtpbGlyLiBNdWhhbGVmZXQgZGUgYXnEscKgZG9sYWLhuq1uIGRpxJ9lciByYWZxLWTDrXIuIEkxXHUwMTVmxLFrIGlraXNpbmUgZGUgYXlubıIHNlbWEgc8O2bmVyLiBOxLFmxLFyxLFuIHNhaGliaSBva3VtYXlhbiBkZWxpbCBkZWdpbGRpci4=
+# ref=R2l6bGkgbm90OiBpa3RpZGFyLCBraW1zZW5pbiBva3VtYWTEscSfxLEgecO2bmV0bWVsaWtsZXJpbiBhcmFzxLFuZGEgYmlyaWtpci4gTXVoYWxlZmV0IGRlIGF5bsSxIGRvbGFixLFuIMO2YsO8ciByYWbEsWTEsXIuIEnFn8SxayBpa2lzaW5lIGRlIGF5bsSxIMWfaWRkZXR0ZSBzw7ZuZXIuIETEscWfYXLEsWRhIGthdmdhIGLDvHnDvHI7IGnDp2VyaWRlIHlvxJ91cnQgdGFuxLFrIGtvcnVtYWRhZMSxci4=
 """
 
 from __future__ import annotations
